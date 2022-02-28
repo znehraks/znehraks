@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1> Design.C 👋 </h1>
-<h2>I started studying programming to make the ideas that were blooming in my head a reality.</h2>
+<h3>I started studying programming to make the ideas that were blooming in my head a reality.</h3>
 
 <h2> 🛠 Skills </h2>
 <h3> Frontend </h3>
