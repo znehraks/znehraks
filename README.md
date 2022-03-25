@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white" />  &nbsp
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/ReactQuery-000000?style=flat-square&logo=ReactQuery&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/ApolloGraphQL-311C87?style=flat-square&logo=ApolloGraphQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a> &nbsp
 </p>
